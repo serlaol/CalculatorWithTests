@@ -43,6 +43,7 @@ public class CalculatorTests {
         Assert.assertEquals(-7, res, DELTA);
     }
 
+    /* TODO: Mejorar la estructura del método tests */    
     @Test
     public void tests() {
 
